@@ -1,0 +1,9 @@
+[package]
+name = "attention-economy"
+version = "0.1.0"
+edition = "2021"
+description = "Resource allocation via attention mechanisms with auctions, decay, and scarcity"
+repository = "https://github.com/SuperInstance/attention-economy"
+license = "MIT"
+
+[dev-dependencies]
